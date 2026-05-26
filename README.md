@@ -1,2 +1,2 @@
-# ochuv-filtr
+# Rochonův-filtr
 Jednoduchý test výkonnosti akcií
